@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
 
-  <h3>Now I'm learning ... ✏️</h3>
+  <h3>Now I'm Interesting ... ✏️</h3>
   <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>
   <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/>
   <br>
