@@ -30,7 +30,7 @@
   <br>
   <br>
 
-  <h3>I'm Interesting ... 📚</h3>
+  <h3>I'm Studying / Interesting ... 📚</h3>
   <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt" />
